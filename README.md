@@ -5,3 +5,4 @@ Polynom represents a Polynom with add, multiply functionalityI(some monoms with 
 ComplexFunctions represents a complex function of type y=g(f1(x), f2(x)), where both f1, f2 are functions (or complex functions), 
 y and x are real numbers and g is an operation: plus, mul, div, max, min, comp (f1(f2(x))).
 Functions_GUI represents a collection of mathematical functions, which can be presented on a GUI window and can be saved (and load) to file.
+wiki: https://github.com/hezzi123/monheAtzamim.wiki.git
